@@ -73,13 +73,18 @@ YOUR APPLICATION WILL RUN ON PORT 5000..
 YOUR APPLICATION RUNS LOCALLY ON PORT 5000.....
 
 ## Project ScreenShot:
-![post](https://github.com/Abhay1609/flask_crud/assets/113366849/6764e0a9-226f-42e3-877e-ef2327a93808)
-![docker](https://github.com/Abhay1609/flask_crud/assets/113366849/053efa69-dd9f-47aa-9d96-775339e8c86b)
+
 ![code](https://github.com/Abhay1609/flask_crud/assets/113366849/9fcc1276-b8e1-4e67-bc45-88fcb346298f)
-![delete](https://github.com/Abhay1609/flask_crud/assets/113366849/a6646e82-8395-4b78-83dd-fc3d8fffd18c)
-![update](https://github.com/Abhay1609/flask_crud/assets/113366849/58fd3199-bba7-4a5b-84ed-020626822254)
-![specific](https://github.com/Abhay1609/flask_crud/assets/113366849/dbf402aa-fcab-487e-9cb0-1657525b98f9)
+![docker](https://github.com/Abhay1609/flask_crud/assets/113366849/053efa69-dd9f-47aa-9d96-775339e8c86b)
+![post](https://github.com/Abhay1609/flask_crud/assets/113366849/6764e0a9-226f-42e3-877e-ef2327a93808)
 ![get user](https://github.com/Abhay1609/flask_crud/assets/113366849/a1fa6a7c-76c5-499a-b47f-c6876a16795f)
+![specific](https://github.com/Abhay1609/flask_crud/assets/113366849/dbf402aa-fcab-487e-9cb0-1657525b98f9)
+![update](https://github.com/Abhay1609/flask_crud/assets/113366849/58fd3199-bba7-4a5b-84ed-020626822254)
+
+![delete](https://github.com/Abhay1609/flask_crud/assets/113366849/a6646e82-8395-4b78-83dd-fc3d8fffd18c)
+
+
+
 
 ## Contacts
 * Abhay Pratap - [abhaypratap9848@gmail.com](abhaypratap9848@gmail.com)
