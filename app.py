@@ -7,7 +7,9 @@ from bson.objectid import ObjectId
 
 app = Flask(__name__)
 app.secret_key = "secretkey"
-app.config['MONGO_URI'] = "mongodb://localhost:27017/Users"
+
+app.config['MONGO_URI'] = "mongodb+srv://abhaypratap9848:abhaypratap9848@cluster0.6zvqwxd.mongodb.net/Users?retryWrites=true&w=majority"
+
 mongo = PyMongo(app)
 
 @app.route('/users', methods=['POST'])
