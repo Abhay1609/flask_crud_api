@@ -64,24 +64,46 @@ YOUR APPLICATION WILL RUN ON PORT 5000..
 ```shell
   docker pull abhaypratap9848/abhay-flask
 ```
-
-3 At last run the docker image on your system using:
+3. Build docker
+```shell
+  docker build -t abhaypratap9848/abhay-flask .
+```
+   
+4 At last run the docker image on your system using:
 ```shell
   docker run -p 5000:5000 abhaypratap9848/abhay-flask
 ```
 
 YOUR APPLICATION RUNS LOCALLY ON PORT 5000.....
 
+## Project Video:
+
+
+https://github.com/Abhay1609/flask_crud/assets/113366849/c06fd190-607f-4605-8973-9b8bf1c640e4
+
+
 ## Project ScreenShot:
+![new_model](https://github.com/Abhay1609/flask_crud/assets/113366849/214369f7-f445-4d7c-b790-e8d8254ea1d6)
+![new_view](https://github.com/Abhay1609/flask_crud/assets/113366849/fdb43f39-e9ec-4f5d-8060-62bff93675ac)
+![new_control](https://github.com/Abhay1609/flask_crud/assets/113366849/0e9a03fb-6e2d-4271-9fb6-2279ae1bf395)
+![new_docker](https://github.com/Abhay1609/flask_crud/assets/113366849/46a43466-44d4-4432-a2b7-508c9487fb01)
+![new_build](https://github.com/Abhay1609/flask_crud/assets/113366849/6a0c3632-66da-4174-bec5-8c07004287b2)
+![new_post](https://github.com/Abhay1609/flask_crud/assets/113366849/fd791974-d137-4652-9c9c-4527aed3afcf)
+![new_post_db](https://github.com/Abhay1609/flask_crud/assets/113366849/884a6e9a-b834-4cdd-9ab2-b8cc77dcb7fa)
+![new_get](https://github.com/Abhay1609/flask_crud/assets/113366849/44774a09-46cb-465e-92b2-2a7156163e1b)
+![specific](https://github.com/Abhay1609/flask_crud/assets/113366849/b2e5bb9b-24c3-42fe-954f-1ed90ae9a8f6)
+![new_update](https://github.com/Abhay1609/flask_crud/assets/113366849/d276ecc3-6031-4238-926e-007d3bd7ecb2)
 
-![code](https://github.com/Abhay1609/flask_crud/assets/113366849/9fcc1276-b8e1-4e67-bc45-88fcb346298f)
-![docker](https://github.com/Abhay1609/flask_crud/assets/113366849/053efa69-dd9f-47aa-9d96-775339e8c86b)
-![post](https://github.com/Abhay1609/flask_crud/assets/113366849/6764e0a9-226f-42e3-877e-ef2327a93808)
-![get user](https://github.com/Abhay1609/flask_crud/assets/113366849/a1fa6a7c-76c5-499a-b47f-c6876a16795f)
-![specific](https://github.com/Abhay1609/flask_crud/assets/113366849/dbf402aa-fcab-487e-9cb0-1657525b98f9)
-![update](https://github.com/Abhay1609/flask_crud/assets/113366849/58fd3199-bba7-4a5b-84ed-020626822254)
+![new_update_db](https://github.com/Abhay1609/flask_crud/assets/113366849/8f415a3d-88d6-47d1-a894-7750b8cc5524)
+![new_delete](https://github.com/Abhay1609/flask_crud/assets/113366849/0f2bd004-3251-4b7e-833c-d96ee0cb2669)
+![new_delete_db](https://github.com/Abhay1609/flask_crud/assets/113366849/da38449c-2aa5-4fbc-92a5-b5128cbb0d65)
 
-![delete](https://github.com/Abhay1609/flask_crud/assets/113366849/a6646e82-8395-4b78-83dd-fc3d8fffd18c)
+
+
+
+
+
+
 
 
 
