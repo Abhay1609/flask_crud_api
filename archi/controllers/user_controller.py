@@ -1,6 +1,6 @@
 from flask_restful import Resource
 from flask import request, jsonify
-from models.user_model import UserModel
+from archi.models.user_model import UserModel
 from bson.json_util import dumps
 
 class UserResource(Resource):

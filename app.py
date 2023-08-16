@@ -3,7 +3,7 @@ from flask import Flask
 from flask_pymongo import PyMongo
 from flask_restful import Api
 # from app.controllers.user_controller import UserResource, UsersResource
-from controllers.user_controller import UserResource, UsersResource
+from archi.controllers.user_controller import UserResource, UsersResource
 
 app = Flask(__name__)
 app.secret_key = "secretkey"
